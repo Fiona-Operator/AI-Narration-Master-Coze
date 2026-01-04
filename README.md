@@ -48,6 +48,7 @@
 Before installing Dify，make sure your machine meets the following minimum system requirements：
 
 FPU >= 2 Core
+
 RAM >= 4 GiB
 
 ### 第一步：获取与复制模版
